@@ -1,0 +1,5 @@
+hompage: "https://company.classting.com/ko/company"
+documentation: "https://github.com/classtinginc/event-streamer-gtm-template"
+versions:
+  - sha: ad9f80d55e9dda2e645194e557c2aae9b4c08439
+    changeNotes: Initial release
